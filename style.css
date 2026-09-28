@@ -1,0 +1,92 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Noto+Sans+KR:wght@100..900&display=swap');
+</style>
+
+
+<html>
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Noto+Sans+KR:wght@100..900&display=swap');
+</style>
+  <head>
+    <title>오늘의 영화 순위</title>
+    <style>
+      *{
+  color: orange;/**dafsafasdfsadfsdf*/
+}
+
+h3{
+  color: red;
+  
+}
+h5{
+  background-color: lightgray;
+}
+    </style>
+  </head>
+  <body style="font-weight: bold;">
+    <header>오늘의 영화 순위(tmdb)</header>
+    <main>
+      <article>
+    <div>
+      font family: ""
+      <h3><a target="_blank" href="https://www.themoviedb.org/movie/1368337-the-odyssey">오디세이</a></h3>
+    트로이 전쟁 승리 후 고향으로 향하던 오디세우스는 신들의 분노와 초자연적 괴물들로 인해 10년간 험난한 고난을 겪습니다.
+
+그 사이 고향 이타카에서는 간악한 구혼자들이 궁전을 점령하고 아내 페넬로페와 왕좌를 탐하며 가문을 위협합니다.
+
+마침내 귀환한 오디세우스가 거지로 변장해 아들과 합세하여 구혼자들을 모두 처단하고 왕국과 가족을 되찾습니다.
+    </div>
+    <img width= "20px;"
+    src="https://hakbo.sungshin.ac.kr/news/photo/202609/1601_1392_153.png">
+    <h5>개봉일: "2026-08-05"</h5>
+     </article>
+    <article>
+    "title":"오디세이",
+    "original_title":"The Odyssey",
+    "overview":"10년간 이어진 트로이 전쟁을 승리로 이끈 영웅 '오디세우스'는 왕의 부재를 틈타 침탈과 권력 다툼이 벌어진 왕국에서 그를 기다리고 있는 아내 '페넬로페'와 아들 '텔레마코스'에게 돌아가기 위한 여정에 나선다. 그러나 신들의 분노를 산 그의 귀환 앞에는 거대한 폭풍과 괴물들, 그리고 거스를 수 없는 운명의 시련이 기다리고 있는데…"
+    <img src="https://media.illustrationx.com/images/artist/DiegoAbreu/173074/webp/2000/odyssey-film-poster.webp">
+    "release_date: "2026-08-24"
+      </main>
+    <div>
+    <h3>레지던트 이블: 0번째 밤</h3>
+    의료 택배 기사 브라이언이 심야에 라쿤 시티 종합 병원으로 긴급 배달을 가던 중 정체불명의 존재를 차로 치게 됩니다.
+
+죽은 줄 알았던 존재가 그를 덮쳐오고, 통신마저 끊긴 상태에서 정체불명의 괴물들이 끊임없이 늘어납니다.
+
+자신이 운반하는 물품의 정체도 모른 채 생존을 위해 괴물들로부터 목숨을 건 사투를 벌입니다.
+    </div>
+    <img width= "20px;"
+    src="https://i.namu.wiki/i/yznC6bKm8WA9jUceMQIR84Ba22xfiptXKhvISOTZ7JRgjqgz2SLEVVZdhRiTxyngydbx7JcOqNESR6PDj7o4pTIoLAyg3ZuuEmv_fUwwk5Z6OKtxi1576qYoD5MJPfxyZEGcuRJrpmvwKERjR0pq5g.webp">
+    <h5>개봉일: "2026-09-17"</h5>
+    <article>
+    title":"레지던트 이블: 0번째 밤",,"original_title":"Resident Evil","overview":"의료 택배 기사 브라이언은 긴급 배달을 맡아 심야에 라쿤 시티 종합 병원으로 향한다. 눈발을 헤치며 가던 중 갑자기 차로 뛰어든 누군가를 치게 되고, 죽은 줄 알았던 이가 다시 그를 덮쳐온다. 하나인 줄 알았던 정체불명의 존재들은 끊임없이 늘어나고, 통신마저 끊긴다. 브라이언은 자신이 무엇을 배달하고 있는지도 모른 채 눈앞에 닥친 존재들을 피해 필사의 사투를 벌이는데…"
+    <img src="https://i.namu.wiki/i/yznC6bKm8WA9jUceMQIR84Ba22xfiptXKhvISOTZ7JRgjqgz2SLEVVZdhRiTxyngydbx7JcOqNESR6PDj7o4pTIoLAyg3ZuuEmv_fUwwk5Z6OKtxi1576qYoD5MJPfxyZEGcuRJrpmvwKERjR0pq5g.webp">
+    "release_date: "2026-09-17"
+   <table style="text-align:center; width:300px; border: solid 1px">
+    <tr>
+      <td>번호</td><td>상품명</td>
+      <td>가격</td>    
+    </tr>
+    <tr>
+      <td>1</td><td>콜라</td>
+      <td>1,500원</td>    
+    </tr>
+    <tr>
+      <td>2</td><td>사이다</td>
+      <td>1,000원</td>    
+    </tr>
+    <tr>
+      <td>3</td><td>탄산</td>
+      <td>1,000원</td>    
+    </tr>
+     <tr>
+      <td>총금액</td><td colspan="3">6,500원</td>
+         
+    </tr>
+  </table>
+
+
+
+    
+  </body>
+</html>
