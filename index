@@ -8,6 +8,7 @@
 @import url('https://fonts.googleapis.com/css2?family=East+Sea+Dokdo&family=Noto+Sans+KR:wght@100..900&display=swap');
 </style>
   <head>
+<link rel="stylesheet"
     <title>오늘의 영화 순위</title>
     <style>
       *{
